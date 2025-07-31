@@ -19,7 +19,7 @@ Accurately estimating the resale value of used cars is essential for both buyers
 
 ---
 
-## 🛠Technologies Used
+## Technologies Used
 
 - Python
 - Jupyter Notebook
@@ -87,7 +87,7 @@ used-car-price-prediction/
 
 ---
 
-## 📜 License
+## License
 
 This project is open-source and free to use under the MIT License.
 
